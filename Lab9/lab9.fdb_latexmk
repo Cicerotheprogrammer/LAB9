@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex lab9"] 1700002830 "lab9.aux" "lab9.bbl" "lab9" 1700003728 0
-  "./references.bib" 1700002829 332 3f21a37e2346327b448970728a1c1b97 ""
+["bibtex lab9"] 1700151661 "lab9.aux" "lab9.bbl" "lab9" 1700152525 0
+  "./references.bib" 1700148703 332 3f21a37e2346327b448970728a1c1b97 ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "lab9.aux" 1700003726 1468 c428211cabebd90567ea41fa7dceeb13 "pdflatex"
+  "lab9.aux" 1700152524 1636 b7c909b95130816135f63302ab2c2020 "pdflatex"
   (generated)
   "lab9.bbl"
   "lab9.blg"
   (rewritten before read)
-["pdflatex"] 1700003725 "c:/Users/pehul/Desktop/Lab9/lab9.tex" "lab9.pdf" "lab9" 1700003728 0
+["pdflatex"] 1700152522 "c:/Users/pehul/Documents/GitHub/LAB9/Lab9/lab9.tex" "lab9.pdf" "lab9" 1700152525 0
   "C:/Users/pehul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697201433 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pehul/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695920014 11548 b28e8abb08eafa9615fe73d2f55e1b8e ""
   "C:/Users/pehul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695830781 24142036 3926ffd2b37070b3269ffb388ad71743 ""
@@ -103,12 +103,14 @@
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/pehul/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/pehul/Desktop/Lab9/lab9.tex" 1700003725 1911 e8b1e5c0a1761c81c64ce8b4ed56baeb ""
-  "lab9.aux" 1700003726 1468 c428211cabebd90567ea41fa7dceeb13 "pdflatex"
-  "lab9.bbl" 1700002859 215 066589520a86613badc9acb91c8c53f0 "bibtex lab9"
-  "lab9.out" 1700003727 501 b468a36a0303e21fbb0fa0007f414c02 "pdflatex"
-  "lab9.tex" 1700003725 1911 e8b1e5c0a1761c81c64ce8b4ed56baeb ""
-  "labreport.sty" 1698713696 689 67e517d183b2812b3df1f23498fa2ed5 ""
+  "Fig9-3.png" 1700149602 14051 3e549ad3ee29d00deca46480d003509c ""
+  "Fig9-4.png" 1700151249 14460 045a227a1f1fccd6426f9e2ee6cca530 ""
+  "c:/Users/pehul/Documents/GitHub/LAB9/Lab9/lab9.tex" 1700152522 4265 a4d1f77c81cc0a86726beb4ffbf8d630 ""
+  "lab9.aux" 1700152524 1636 b7c909b95130816135f63302ab2c2020 "pdflatex"
+  "lab9.bbl" 1700151662 215 57a0b20fd10ebcffef910407c0db699b "bibtex lab9"
+  "lab9.out" 1700152524 501 b468a36a0303e21fbb0fa0007f414c02 "pdflatex"
+  "lab9.tex" 1700152522 4265 a4d1f77c81cc0a86726beb4ffbf8d630 ""
+  "labreport.sty" 1700148703 689 67e517d183b2812b3df1f23498fa2ed5 ""
   (generated)
   "lab9.aux"
   "lab9.log"
